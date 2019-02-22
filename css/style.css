@@ -1,4 +1,5 @@
 @import "index.css";
+@import "catalog-item.css";
 
 body {
     margin: 0;
@@ -12,7 +13,7 @@ body {
     color: #ffffff;
 
     background-color: #000000;
-    background-image: url("img/bg.jpg");
+    background-image: url("../img/bg.jpg");
     background-position: top center;
     background-repeat: no-repeat;
 }
