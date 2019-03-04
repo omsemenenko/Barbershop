@@ -1,0 +1,60 @@
+.price-page {
+    color: #000000;
+    background-color: #f9f6f3;
+    background-image: url("../img/pattern-light.jpg");
+    background-position: 0 0;
+    background-repeat: repeat;
+}
+
+.page-title {
+    font-size: 48px;
+    line-height: 48px;
+}
+
+.breadcrumbs {
+    list-style: none;
+}
+
+.breadcrumbs a {
+    color: #000000;
+}
+
+.breadcrumbs a:hover,
+.breadcrumbs a:focus {
+    text-decoration: underline;
+}
+
+.breadcrumbs-current {
+    color: #aba9a7;
+}
+
+.our-features h2 {
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.our-features-list li {
+    list-style: none;
+    font-size: 14px;
+}
+
+.price-list h2 {
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.about-us-left h2 {
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.about-us-left ul,
+.about-us-right ul {
+    list-style: none;
+}
+
+.about-us-left-item p,
+.about-us-right-item p {
+    font-size: 14px;
+    line-height: 24px;
+}
